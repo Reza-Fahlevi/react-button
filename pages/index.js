@@ -44,7 +44,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Custom <a href="https://material-ui.com/components/buttons/" target="_blank">Buttom</a>
+          Custom <a href="https://material-ui.com/components/buttons/" target="_blank">Button</a>
         </h1>
 
         <p className={styles.description}>
